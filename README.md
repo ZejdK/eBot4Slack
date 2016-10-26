@@ -6,7 +6,8 @@ Kratki opis:
 
 
 ToDo:
-    - Potrebno je postaviti da ima licenca
+-   skontati kako dobiti pravi token
+-   skontati kako skloniti [bot] kad god bot posalje poruku
 
 
 
