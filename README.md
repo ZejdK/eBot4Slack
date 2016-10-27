@@ -6,6 +6,7 @@ Kratki opis:
 
 
 ToDo:
+-   std::String sa podrskom za UNICODE
 -   skontati kako dobiti pravi token
 -   skontati kako skloniti [bot] kad god bot posalje poruku
 
