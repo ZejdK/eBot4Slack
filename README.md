@@ -20,7 +20,7 @@ u prvom planu:
 -   nekako sprjeciti da slackbot i ovaj bot odgovaraju jedan drugom na poruke, tj da se ne zaglave u petlji
 -   chat logger
     *   treba onda iskljuciti edit, da se ne bi desili problemi sa "sinhronizacijom", tj da na jednom pise jedno, a na drugom nesto drugo
--   procesor/parser komandi (vrijeme/prognoza, izvjestaji, ping, seen, ...)
+-   procesor/parser komandi (vrijeme/prognoza, izvjestaji, ping, seen, youtube, ...)
 -   odgovor na nadjene rijeci iz poruka (ili mozda ostaviti ovo slackbotu)
 -   youtube linkovi
     *   http://stackoverflow.com/questions/14379459/fetch-all-youtube-videos-using-curl
