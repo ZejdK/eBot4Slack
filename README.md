@@ -7,6 +7,7 @@ Kratki opis:
 
 ToDo:
 -   std::String sa podrskom za UNICODE
+-   odrediti znak koji predstavlja komandu (!, ., nesto...), jer ne mora se svaki string "indeksirati"/"parsirati"/kako god
 -   skontati kako dobiti pravi token
 -   skontati kako skloniti [bot] kad god bot posalje poruku
 
