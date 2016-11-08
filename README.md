@@ -6,10 +6,13 @@ Kratki opis:
 
 
 ToDo:
+-   smisliti novo ime
 -   std::String sa podrskom za UNICODE
 -   odrediti znak koji predstavlja komandu (!, ., nesto...), jer ne mora se svaki string "indeksirati"/"parsirati"/kako god
--   skontati kako dobiti pravi token
 -   skontati kako skloniti [bot] kad god bot posalje poruku
+    *   registrovati dummy acc i koristiti taj token sa as_user = true
+-   skontati kako dobiti pravi token
+-   overload operator << (std::ostream, sbot::bot)
 
 
 
